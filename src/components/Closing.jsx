@@ -32,8 +32,8 @@ function Closing() {
         {/* Greeting text */}
         <div className='w-[90%] max-w-[400px]'>
           <p className="z-10 text-white text-center text-xl font-semibold px-4 drop-shadow-lg">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, delectus? Ut delectus voluptatibus consequatur ex.
-          </p>
+          "Selamat Hari Valentine, Bilqis! 💖 Kamu adalah cahaya dalam hariku, senyum dalam bahagiaku, dan cinta dalam hatiku. Terima kasih sudah hadir dan membuat segalanya lebih indah. Love you always! 💕✨"
+          </p> 
 
         {/* Button */}
           <div className="flex justify-center w-full mt-12 z-10">
