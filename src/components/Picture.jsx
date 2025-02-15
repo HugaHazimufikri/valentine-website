@@ -10,7 +10,7 @@ function Picture() {
   const navigate = useNavigate();
 
   const pictures = [
-    { Image: photo2, title: 'September 15, 202s4', description: "Pertama kali kita jalan jalan bereng ke pantai"},   
+    { Image: photo2, title: 'September 15, 2024', description: "Pertama kali kita jalan jalan bereng ke pantai"},   
     { Image: photo1, title: 'January 01, 2025', description: "Foto pertama kita di 2025"},
 
   ]
